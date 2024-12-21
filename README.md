@@ -29,3 +29,11 @@ Project In Scope Use Case
 1.User Authentication: Implementation of multi-factor authentication including biometrics.
 2.Transaction Handling: Real-time processing and notifications.
 
+Project In Scope Use Case
+1. User Authentication: Implementation of multi-factor authentication including biometrics.
+2. Transaction Handling: Real-time processing and notifications.
+
+Project Out of Scope Use Case
+3.Foreign Currency Account Management: Will not be addressed in this upgrade.
+4.Cryptocurrency Transactions: Not included in this phase of enhancements.
+
