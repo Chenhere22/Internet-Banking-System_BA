@@ -1,23 +1,26 @@
 # Internet-Banking-System_BA
 
-Project Objective
+## Project description
+
+1. Project Objective
 To upgrade the current internet banking system by improving user experience, strengthening security features, and incorporating advanced capabilities such as biometric authentication and real-time notifications.
 
-Business Problem
+2. Business Problem
 Customers are experiencing slow transaction times, limited mobile functionality and concerns over security vulnerabilities with the current internet banking system.
 
-AS-IS State
-The current system supports basic transactions, account management, and periodic updates via email or SMS. It lacks features like biometric security, advanced analytics for users, and seamless mobile support.
+3. AS-IS State
+The current system supports basic transactions, account management, and periodic updates via email or SMS. It lacks features like biometric security, advanced analytics for users, visualisation of transation, and seamless mobile support.
 
-To-BE State
+4. To-BE State
 The upgraded system will provide:
 Real-time processing of transactions
+Visualisation of transation
 Full mobile functionality with native app support
 Biometric login and transaction authorization
 Personalized financial insights through advanced analytics
 Integration with other financial platforms and services
 
-Project Stakeholders
+## Project Stakeholders
 Customers
 Bank Management
 IT Department
