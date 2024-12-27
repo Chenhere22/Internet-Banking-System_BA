@@ -26,8 +26,8 @@ External Security Consultants
 Third-party service providers
 
 Project In Scope Use Case
-1.User Authentication: Implementation of multi-factor authentication including biometrics.
-2.Transaction Handling: Real-time processing and notifications.
+User Authentication: Implementation of multi-factor authentication including biometrics.
+Transaction Handling: Real-time processing and notifications.
 
 Project In Scope Use Case
 User Authentication: Implementation of multi-factor authentication including biometrics.
